@@ -59,7 +59,7 @@ npm install
 ```
 ### 3️⃣ Run the Backend
 ```bash
-npm start
+npm run dev
 ```
 
 
