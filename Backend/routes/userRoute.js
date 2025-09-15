@@ -1,5 +1,6 @@
 const express = require("express");
 const userRouter = express.Router();
+//post endpoints for user registration, login, profile management, and reward points
 userRouter.post("/register", (req, res) => {
     res.json({ message: "Register user " });
 });
